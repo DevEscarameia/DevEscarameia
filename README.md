@@ -1,4 +1,4 @@
-# Olá chamo-me Duarte Escarameia e sou estudante de Desenvolviemnto de Software
+# Olá chamo-me Duarte Escarameia e sou estudante de Desenvolvimento de Software
 
 <div>
   <a href="https://beacons.ai/DevEscarameia" target="_blank">
